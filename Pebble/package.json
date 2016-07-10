@@ -1,0 +1,24 @@
+{
+    "author": "liam@mcmains.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "spheropebble",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "SpheroPebble",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3f90347a-a84a-4098-88dc-29adf7b291ba",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
